@@ -17,4 +17,4 @@ Most updated version: bot.js
 
 ## Twitter
 
-_Find the bot on twitter: [fictionalduels](https://twitter.com/fictionalduels)_
+_Find the bot on twitter: [@fictionalduels](https://twitter.com/fictionalduels)_
