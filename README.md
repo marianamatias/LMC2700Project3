@@ -9,13 +9,11 @@ It's amusing to think of the outcome in these hypothetical battles, and debate w
 The next step for this project would be to include a method that counts the number of retweets and the number of likes the question has, and calculate the winner based off of those numbers.
 
 ## Versions
-____________________________________________
 Version 1: botv1.js
 
 Version 2: botv2.js
 
 Most updated version: bot.js
-
 
 ## Twitter
 
